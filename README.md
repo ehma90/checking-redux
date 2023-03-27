@@ -1,3 +1,3 @@
 # Checking Redux
 
-Refreshing my brain of how redux works.
+A quick recap of how redux works.
